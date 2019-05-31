@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC>
+          <root url="file://$MODULE_DIR$/lib/jasypt-1.9.2/apidocs/jasypt" />
+          <root url="file://$MODULE_DIR$/lib/jasypt-1.9.2/apidocs/jasypt-acegisecurity" />
+          <root url="file://$MODULE_DIR$/lib/jasypt-1.9.2/apidocs/jasypt-hibernate3" />
+          <root url="file://$MODULE_DIR$/lib/jasypt-1.9.2/apidocs/jasypt-hibernate4" />
+          <root url="file://$MODULE_DIR$/lib/jasypt-1.9.2/apidocs/jasypt-spring2" />
+          <root url="file://$MODULE_DIR$/lib/jasypt-1.9.2/apidocs/jasypt-spring3" />
+          <root url="file://$MODULE_DIR$/lib/jasypt-1.9.2/apidocs/jasypt-spring31" />
+          <root url="file://$MODULE_DIR$/lib/jasypt-1.9.2/apidocs/jasypt-springsecurity2" />
+          <root url="file://$MODULE_DIR$/lib/jasypt-1.9.2/apidocs/jasypt-springsecurity3" />
+          <root url="file://$MODULE_DIR$/lib/jasypt-1.9.2/apidocs/jasypt-wicket13" />
+          <root url="file://$MODULE_DIR$/lib/jasypt-1.9.2/apidocs/jasypt-wicket15" />
+        </JAVADOC>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib/jasypt-1.9.2/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/lib/jasypt-1.9.2/lib" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/lib/jasypt-1.9.2/lib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/jasypt-1.9.2/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
